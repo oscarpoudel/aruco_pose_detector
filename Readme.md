@@ -8,6 +8,7 @@ This ROS 2 package detects ArUco markers from camera images (`/camera/image_raw`
 - Converts OpenCV camera frame to ROS coordinate conventions.
 - Visualizes marker pose using TF and optional image overlay.
 ## Outputs
+![ArUco Detection Example](https://github.com/oscarpoudel/aruco_pose_detector/raw/main/image/1.png)
 
 ## Clone and Build
 1. Clone the repository:
