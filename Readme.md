@@ -31,6 +31,7 @@ This ROS 2 package detects ArUco markers from camera images (`/camera/image_raw`
 ```
 ros2 run image_tools cam2image --ros-args -p image_width:=640 -p image_height:=360
 ```
+please refer to this repo to stream from the camera: https://github.com/oscarpoudel/get_calibrate_camera
 
 **Terminal 2 – ArUco pose estimator:**
 ```
